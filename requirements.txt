@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+
+# Optional — only needed if you use the speech-recording / transcription
+# features in the Alphabet practice drill or Phrases in Context.
+# Whisper additionally requires ffmpeg installed system-wide
+# (winget install ffmpeg on Windows).
+streamlit-mic-recorder>=0.0.8
+openai-whisper>=20231117
