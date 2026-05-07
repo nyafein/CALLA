@@ -494,17 +494,16 @@ SCENARIOS = {
                     "cyrillic": (
                         "Так! Багдановіч пісаў пра гэта ў «Вянку», "
                         "а «Купалінка» — народная песня, якую ўсе ведаюць. "
-                        "Уся беларуская літаратура з гэтых момантаў."
+                       
                     ),
                     "lacinka": (
                         "Tak! Bahdanovič pisaŭ pra heta ŭ «Vianku», "
                         "a «Kupalinka» — narodnaja piesnia, jakuju ŭsie viedajuć. "
-                        "Usia biełaruskaja litaratura z hetych momantaŭ."
+                     
                     ),
                     "english": (
                         "Yes! Bahdanovič wrote about this in 'Vianok', and "
-                        "'Kupalinka' is a folk song everyone knows. All of "
-                        "Belarusian literature flows from these moments."
+                        "'Kupalinka' is a folk song everyone knows."
                     ),
                     "cultural_note": (
                         "'Вянок' (1913) was Bahdanovič's only collection published "
